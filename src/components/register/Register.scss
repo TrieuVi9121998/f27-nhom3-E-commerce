@@ -1,0 +1,50 @@
+.container {
+  height: max-content;
+  width: max-content;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 0px;
+  margin: 30px auto 30px auto;
+}
+h2 {
+  padding-top: 1.5rem;
+}
+a {
+  color: #333;
+  font-weight: bold;
+}
+.card {
+  border: 0.4rem solid #f8f9fa;
+  top: 10%;
+}
+.form-control {
+  background-color: #f8f9fa;
+  padding: 20px;
+  margin: 5px 15px;
+  width: 250px;
+  height: 1px;
+}
+.btn {
+  margin: 10px 25px;
+  padding: 0.6rem 1.2rem;
+  background-color: rgb(66, 109, 73);
+  border: 2px solid rgb(66, 109, 73);
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+.btn-login, .btn-register {
+  background-color: rgb(66, 109, 73);
+  border: 2px solid rgb(66, 109, 73);
+  border-radius: 5px;
+  padding: 0.6rem 1.2rem;
+  margin: 10px 25px;
+  color: white;
+  font-weight: bold;
+}
+.form-group{
+  min-width: 350px;
+  >input{
+    min-width: 350px;
+}}

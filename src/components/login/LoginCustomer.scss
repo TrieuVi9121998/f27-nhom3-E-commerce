@@ -1,0 +1,50 @@
+.btn-color {
+    background-color: #0e1c36;
+    color: #fff;
+  }
+  
+  .profile-image-pic {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  .card-body{
+    position: relative;
+  }
+  .cardbody-color {
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  input{
+      margin: 10px auto;
+      padding: 7px 30px;
+      border-radius: 7px;
+  }
+ .bt-login{
+    color: white;
+       margin: 10px auto;
+       padding: 10px 20px;
+       border-radius: 7px;
+       font-weight: bold;
+       font-size: 15px;
+       background-color: rgb(66,109,73);
+       cursor: pointer;
+       border: none;
+  }
+  .input-login{
+    max-width: 270px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+  .card{
+    position: initial;
+  }
+  
+  
